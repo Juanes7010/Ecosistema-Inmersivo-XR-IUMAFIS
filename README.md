@@ -10,6 +10,14 @@ El sistema integra tecnologías inmersivas para recopilar, procesar y proyectar 
 
 ---
 
+### 🎥 Demostración del Ecosistema XR en Funcionamiento
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=2AuCWSJo3WI" target="_blank">    <img src="https://img.youtube.com/vi/2AuCWSJo3WI/maxresdefault.jpg" alt="Ver Demo del Proyecto XR" width="400" style="border-radius: 10px;">
+  </a>
+  <p><em>👉 Haz clic en la imagen para ver el video con el recorrido y funcionamiento de los módulos interactivos.</em></p>
+</div>
+
 https://github.com/user-attachments/assets/837b9425-f183-4733-8492-61978bdd8752
 
 ## 🛠️ Stack Tecnológico
