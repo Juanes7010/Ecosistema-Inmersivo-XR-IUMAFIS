@@ -10,6 +10,8 @@ El sistema integra tecnologías inmersivas para recopilar, procesar y proyectar 
 
 ---
 
+https://github.com/user-attachments/assets/837b9425-f183-4733-8492-61978bdd8752
+
 ## 🛠️ Stack Tecnológico
 
 * **Motor de Desarrollo:** `Unity 6000.0.58f2` *(Versión LTS)*
